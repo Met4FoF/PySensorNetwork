@@ -1,0 +1,2 @@
+# PySensorNetwork
+This repository contains a class library comprised of a base class and derived subclasses each representing more or less task specific measuring devices which are used in the EMPIR project 17IND12 Metrology for the Factory of the Future. Thus it provides an interface and implementation of the abstraction of sensors and different kinds of measuring devices taking into account the structure and content of the digital calibration certificate (DCC).
