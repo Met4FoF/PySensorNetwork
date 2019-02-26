@@ -3,6 +3,6 @@ This repository contains a class library comprised of a base class and derived s
 
 The structure of the class model is shown in the following picture.
 
-![measuering_instrument_class_structure](https://user-images.githubusercontent.com/40172676/47812630-31a44380-dd49-11e8-8d72-51ed9fe9107b.png)
+![measuering_instrument_class_structure](https://github.com/Met4FoF/PySensorNetwork/blob/master/Sensor%20Class%20Structure.png)
 
 If you have advices or requests regarding the model or its implementation you are warmly welcome to contact the maintainers or fork this repository and send a pull request with your suggested changes.
